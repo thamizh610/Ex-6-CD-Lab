@@ -52,6 +52,7 @@ int main()
 }
 ```
 
+
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/ce4f5f97-5466-45e6-bac2-e5e722b98ce1)
 # PROGRAM OUTPUT
